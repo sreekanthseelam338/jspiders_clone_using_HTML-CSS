@@ -1,0 +1,62 @@
+*{ 
+    margin: 0
+    padding: 0
+    box-sizing: border-box;
+}
+
+body{
+    background: url("../images/cesar-couto-TIvFLeqZ4ec-unsplash.jpg");
+}
+section{
+width: 50%;
+height: 2px;
+align-items: center;
+justify-content: center;
+margin: 40%;
+margin-top: 5%;
+
+}
+section article form{
+    border: 2px solid white;
+    width: 40%;
+    height: 500px;
+    padding: 20px;
+    margin-top: 0px;
+    border-radius: 7px;
+    background-color: transparent;
+
+}
+form h1{
+    text-decoration: underline;
+    text-align: center;
+    color: black;
+    margin-top:  0;
+    font-size: 40px;
+}
+#btn{border: 3px solid black;
+    align-items: center;
+    margin-left: -1px;
+    width: 100%;
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+    border-radius: 4px;
+    padding: 3px;
+    
+}
+#about a{
+    
+    color: white;
+    width: 23%;
+    padding: 1px;
+    font-weight: 300;
+    border-radius: 5px;
+    text-decoration:none;
+}
+#ca{
+ 
+ color: white;
+ width: 50%;
+ font-weight: bold;
+ font-size: 16px;
+}
